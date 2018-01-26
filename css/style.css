@@ -1,0 +1,17 @@
+.jumbotron {
+    background-image: url("../images/pisa_bg.jpg");
+    background-repeat:no-repeat;
+    background-size: auto 300px;
+    max-height:300px;
+}
+img {
+    width:100%;
+}
+
+h1, h2, h3 {
+    font-family: 'Luckiest Guy', cursive;
+}
+
+body, p, a {
+    font-family: 'Lato', sans-serif;
+}
